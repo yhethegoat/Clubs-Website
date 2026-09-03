@@ -1,2 +1,5 @@
 # Clubs-Website
-My Clubs
+Yutong He
+Project for HTML 
+Laptop, intellij, github, sublime
+https://yhethegoat.github.io/Clubs-Website/
